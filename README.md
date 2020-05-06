@@ -1,2 +1,3 @@
-# Gilfoyles-Bitcoin-Tracker
-python rendition of Gilfoyle from Silicon Valley's Bitcoin tracker.
+# Gilfoyles Bitcoin Tracker
+
+Ojective was to learn how to interact with API's and play audio.
